@@ -24,7 +24,9 @@
 1. 克隆本项目：
    ```bash
    git clone https://github.com/tsubakiyukisakura/corn_n.git
-   cd corn_nb
+   ```
+   ```
+   cd corn_n/corn_nb
    ```
 2. 一键启动主菜单：
    ```bash
